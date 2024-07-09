@@ -1,0 +1,10 @@
+E:\Projects\HospitalManagmentSystem\HospitalManagmentSystem\bin\Debug\HospitalManagmentSystem.exe.config
+E:\Projects\HospitalManagmentSystem\HospitalManagmentSystem\bin\Debug\HospitalManagmentSystem.exe
+E:\Projects\HospitalManagmentSystem\HospitalManagmentSystem\bin\Debug\HospitalManagmentSystem.pdb
+E:\Projects\HospitalManagmentSystem\HospitalManagmentSystem\obj\Debug\HospitalManagmentSystem.csprojResolveAssemblyReference.cache
+E:\Projects\HospitalManagmentSystem\HospitalManagmentSystem\obj\Debug\HospitalManagmentSystem.Properties.Resources.resources
+E:\Projects\HospitalManagmentSystem\HospitalManagmentSystem\obj\Debug\HospitalManagmentSystem.csproj.GenerateResource.Cache
+E:\Projects\HospitalManagmentSystem\HospitalManagmentSystem\obj\Debug\HospitalManagmentSystem.exe
+E:\Projects\HospitalManagmentSystem\HospitalManagmentSystem\obj\Debug\HospitalManagmentSystem.pdb
+E:\Projects\HospitalManagmentSystem\HospitalManagmentSystem\obj\Debug\HospitalManagmentSystem.LoginForm.resources
+E:\Projects\HospitalManagmentSystem\HospitalManagmentSystem\obj\Debug\HospitalManagmentSystem.Dashbord.resources
